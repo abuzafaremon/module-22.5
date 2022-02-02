@@ -1,9 +1,9 @@
 // qes: 1
 
-/* var myString = 'My Name is Khan';
+var myString = 'My Name is Khan';
 var myBul = true;
 var myBul2 = false;
-var myNum = 7; */
+var myNum = 7;
 
 //--------------------
 
@@ -190,6 +190,8 @@ person.weight = 57;
 console.log(person); */
 
 //-------------------------
+
+// All are done successfully.
 
 
 
